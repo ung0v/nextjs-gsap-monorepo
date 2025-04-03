@@ -1,0 +1,14 @@
+{
+  "name": "@repo/motion",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./*": "./*.js"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "gsap": "^3.12.7",
+    "lenis": "^1.2.3"
+  }
+}
